@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pygame
 
 pygame.init()
@@ -51,3 +52,6 @@ while running:
                     print(f"Нажата кнопка: {text}")
 
 pygame.quit()
+=======
+print('  ')
+>>>>>>> origin/Larisa
